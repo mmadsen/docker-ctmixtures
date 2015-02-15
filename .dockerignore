@@ -1,0 +1,5 @@
+.git/*
+README.md
+LICENSE
+docker-ctmixtures.sublime-*
+ctmixtures-database-output-example.png

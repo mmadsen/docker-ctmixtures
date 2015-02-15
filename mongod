@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /usr/bin/mongod --bind_ip 127.0.0.1 --config /etc/mongod.conf  >>/root/mongo-console.log 2>&1

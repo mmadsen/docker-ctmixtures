@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/root/anaconda/bin/sim-ctmixture-timeaveraging.py  --experiment equifinality-3 --configuration /root/v2.5/conf/equifinality-allneutral.json --popsize 100 --maxinittraits 10 --numloci 4 --kandlerinterval 50 --innovationrate 1.35554193845 --periodic 0  --simulationendtime 4000000 --conformismstrength 0.0 --anticonformismstrength 0.0 --debug 1 --seed 988924085664279983
+#/root/anaconda/bin/sim-ctmixture-timeaveraging.py  --experiment equifinality-3 --configuration /root/v2.5/conf/equifinality-allneutral.json --popsize 100 --maxinittraits 10 --numloci 4 --kandlerinterval 50 --innovationrate 0.85554193845 --periodic 0  --simulationendtime 4000000 --conformismstrength 0.0 --anticonformismstrength 0.0 --debug 1 --seed 988924085664279983
+#/root/anaconda/bin/sim-ctmixture-timeaveraging.py  --experiment equifinality-3 --configuration /root/v2.5/conf/equifinality-allneutral.json --popsize 100 --maxinittraits 10 --numloci 4 --kandlerinterval 50 --innovationrate 3.76580396358 --periodic 0  --simulationendtime 4000000 --conformismstrength 0.0 --anticonformismstrength 0.0 --debug 1 --seed 1181171444355687199
